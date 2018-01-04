@@ -1,0 +1,19 @@
+{
+  "name": "qblib",
+  "version": "1.0.0",
+  "description": "qbtrade lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTjack/qblib.git"
+  },
+  "author": "qbtrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZTjack/qblib/issues"
+  },
+  "homepage": "https://github.com/ZTjack/qblib#readme"
+}
