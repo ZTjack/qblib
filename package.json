@@ -1,6 +1,6 @@
 {
   "name": "qblib",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "qbtrade lib",
   "main": "index.js",
   "scripts": {
